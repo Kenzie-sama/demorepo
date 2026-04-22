@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello k xa halkhabar.
 This like is written in local repo from different branch.
+=======
+hello k xa halkhabar
+Can i help you
+>>>>>>> 76d98d6b815c4bfa57bc3d7b1f9e8c49457e735b
