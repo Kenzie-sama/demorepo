@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hello k xa halkhabar.
 This like is written in local repo from different branch.
 =======
